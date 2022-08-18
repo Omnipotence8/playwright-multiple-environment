@@ -1,0 +1,21 @@
+{
+  "name": "playwright-multiple-environment",
+  "version": "1.0.0",
+  "description": "Playwright TypeScript Framework with Playwright Test Runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [
+    "playwright test runner",
+    "playwright typescript framework"
+  ],
+  "author": "Lyudmyla Kalmykova",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.25.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
